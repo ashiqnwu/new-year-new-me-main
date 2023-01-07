@@ -77,12 +77,14 @@ footer {
 
 .footer1 {
     float: left;
-    padding: 130px 230px;
+    padding: 130px 230px 0 230px;
     height: 577px;
     width: 485px;
     font-weight: 400;
     font-size: 16px;
     line-height: 26px;
+    margin-bottom: 0;
+    padding-bottom: 0;
 }
 
 .footer2 {
